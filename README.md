@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, I'm Ariel Campos 👋
 
-<!--
-**arielcBR/arielcBR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About
+I'm a Web Developer, I'm currently studying web development at [Rocketseat](https://rocketseat.com.br/) and a student of system information engineer at [UTN](https://www.frba.utn.edu.ar/)
 
-Here are some ideas to get you started:
+#### Current stack
+- Main language: `Javascript (ES6)`
+- Backend: `NodeJS`
+- Frontend: `ReactJS`, `HTML5`, `CSS` and `Javascript`
+- Layout: `Figma`
+- Version control: `Git & Github`
+- Tools: `VScode` and `Postman`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### How to reach me
+Email: ``ariel.campos94@yahoo.com``
+Linkedin: https://www.linkedin.com/in/campos-ariel/
