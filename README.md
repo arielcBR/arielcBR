@@ -9,7 +9,8 @@ I'm a Web Developer, I'm currently studying web development at [Rocketseat](http
 - Frontend: `ReactJS`, `HTML5`, `CSS` and `Javascript`
 - Layout: `Figma`
 - Version control: `Git & Github`
-- Tools: `VScode` and `Postman`
+- Tests: `Jest` and `Cypress`
+- Tools: `VScode` and `Insomnia`
 
 #### How to reach me
 Email: ``ariel.campos94@yahoo.com``
