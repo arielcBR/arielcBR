@@ -1,7 +1,7 @@
-### Hi there, I'm Ariel Campos 👋
+### Hi! I'm Ariel Campos 👋
 
 #### About
-I'm a fullstack Developer, I'm currently studying web development at [Rocketseat](https://rocketseat.com.br/) and a student of system information engineer at [Unisinos](https://unisinos.br/)
+I'm a fullstack Developer, I'm currently studying web development at [Rocketseat](https://rocketseat.com.br/) and a student of Systems Analysis and Development at [Unisinos](https://unisinos.br/)
 
 #### Current stack
 - Main language: `Typescript/Javascript (ES6)` and `C++`
