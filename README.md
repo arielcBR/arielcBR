@@ -1,10 +1,10 @@
 ### Hi! I'm Ariel Campos 👋
 
 #### About
-I'm a fullstack Developer, I'm currently studying web development at [Rocketseat](https://rocketseat.com.br/) and a student of Systems Analysis and Development at [Unisinos](https://unisinos.br/)
+I'm a fullstack Developer, I'm currently studying backend development at [Balta.io](https://balta.io/) and a student of Systems Analysis and Development at [Instituto Federal (IFSUL)](https://www.sapucaia.ifsul.edu.br/)
 
 #### Current stack
-- Main language: `Typescript/Javascript (ES6)` and `C++`
+- Main language: `Typescript/Javascript (ES6)`
 - Backend: `NodeJS`
 - Databases: `SQLITE`, `mySQL` and `MongoDB`
 - Frontend: `ReactJS`, `HTML5`, `CSS` and `Javascript`
@@ -12,6 +12,11 @@ I'm a fullstack Developer, I'm currently studying web development at [Rocketseat
 - Version control: `Git & Github`
 - Tests: `Jest` and `Cypress`
 - Tools: `VScode` and `Insomnia`
+
+- #### Nowadays learning
+- `ASP.NET`
+- `Software engineering`
+- `Linux`
 
 #### How to reach me
 Email: ``ariel.campos94@yahoo.com``
